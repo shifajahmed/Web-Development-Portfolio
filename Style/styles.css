@@ -263,13 +263,14 @@ body {
   margin-top: 20px;
   display: flex;
   justify-content: center;
-  gap: 20px;
+
 }
 
-.footer-nav a {
+.footer-nav a { 
   text-decoration: none;
   color: #8987A1;
   font-weight: bold;
+  padding: 10px
 }
 
 .logo_footer {
